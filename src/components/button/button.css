@@ -1,0 +1,44 @@
+.App-button {
+  justify-content: center;
+  width: 25%;
+  height: 50%;
+  border-radius: 30px;
+  margin: 2%;
+  border: 0px;
+  padding: 0px;
+  }
+  
+  #button-green {
+    background-color: rgb(0, 180, 126);
+  }
+  
+  #button-white {
+    background-color: white;
+  }
+  
+  #button-clear {
+    background-color: transparent;
+    border: 2px solid white;
+  }
+  
+  #button-clearAlt {
+    background-color: transparent;
+    border: 2px solid rgb(0, 180, 126);
+  }
+  
+  .App-button-text {
+    color: white;
+    font: bold 16px Arial;
+  }
+  
+  #button-text-white {
+    color: white;
+  }
+  
+  #button-text-green {
+    color: rgb(0, 180, 126);
+  }
+  
+  #button-text-grey {
+    color: lightgrey;
+  }
